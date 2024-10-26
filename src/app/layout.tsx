@@ -22,12 +22,12 @@ const libre_franklin = Libre_Franklin({
 });
 
 export const metadata: Metadata = {
-  title: "WDC Template",
+  title: "Tasky Time",
   icons: [
     { rel: "icon", type: "image/png", sizes: "48x48", url: "/favicon.ico" },
   ],
-  keywords: "yolo",
-  description: "A simple next.js template including drizzle and lucia auth",
+  keywords: "Task Manager",
+  description: "A task manager which hold our task",
 };
 
 export default async function RootLayout({
