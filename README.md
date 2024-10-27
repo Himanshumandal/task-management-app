@@ -55,6 +55,3 @@ If you want google login, you'll need to setup a google project and create some 
 
 TODO
 
-## Contributing
-
-I'm hoping to keep this template as slim as possible and only add auth related features. Some future things that might be nice to add in could be MFA, sign out all devices, etc. I'm open to contributions, but please keep that core vision of "just auth related stuff" in mind.
